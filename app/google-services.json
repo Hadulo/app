@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634400278413",
+    "project_id": "project-agri-link",
+    "storage_bucket": "project-agri-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634400278413:android:09164c67b0140aceb91fc4",
+        "android_client_info": {
+          "package_name": "com.example.agrilink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634400278413-2qt6ropjps3losv47g6ebgcs67s3lavh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEb08mku7yjUTwZkPL6tqfGyyG_oCL-M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634400278413-2qt6ropjps3losv47g6ebgcs67s3lavh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
